@@ -8,4 +8,5 @@ I tried to make a new kind of NPC powered by Chat GPT and Unreal Engine 5. AI fe
 Don't forget to add OpenAI and Azure Plugin!
 
 https://github.com/KellanM/OpenAI-Api-Unreal
+
 https://www.unrealengine.com/marketplace/en-US/product/azspeech-async-text-to-voice-and-voice-to-text
