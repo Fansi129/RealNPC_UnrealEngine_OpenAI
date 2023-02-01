@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/Blueprints/AIChat.uasset",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/Blueprints/OpenAI_Library.uasset",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DS/FLATCEE82HAMVBJ1IJAZ9O.uasset",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/Blueprints/MainPawn.uasset",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/Blueprints/AI_Master.uasset",
+				"C:/Users/fansi/Documents/Unreal Projects/RealAI/Content/Blueprints/MainGM.uasset"
+			]
+		}
+	]
+}
